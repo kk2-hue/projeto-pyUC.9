@@ -1,0 +1,3 @@
+# git add .    (adicionar os arquivos)
+# git commit -m "Mensagem"  (salvar)
+# git push (enviar pro github)
